@@ -5,7 +5,7 @@ const ItemList = ({ products, category }) => {
   return (
     <>
       <Header showAs="Shadow" />
-      <h1 className="products__path">Shop</h1>
+      <h1 className="products__path">Tienda</h1>
 
       <div className="products">
         {products &&

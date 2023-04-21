@@ -12,6 +12,9 @@
 @import "./components/_btn-loader";
 @import "./components/_checkout-form";
 @import "./components/_text-field";
+@import "./components/_error404";
+@import "./components/_item-error";
+
 
 
 @import './layout/_overlay';
@@ -22,7 +25,6 @@
 @import "./layout/_products";
 
 @import "./pages/_home";
-@import "./pages/_about";
 @import "./pages/_checkout";
 @import "./pages/_order";
 
