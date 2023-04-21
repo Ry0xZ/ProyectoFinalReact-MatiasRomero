@@ -60,7 +60,7 @@ _Los pasos a seguir para realizar la instalacion correcta del proyecto._
 
 1. Clone the repo
    ```sh
-   git clone ///mi github///
+   git clone https://github.com/Ry0xZ/ProyectoFinalReact-MatiasRomero.git
    ```
 2. Navegar a la ruta del proyecto
     ```sh
